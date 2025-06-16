@@ -13,7 +13,7 @@ target("cxx_pjc")
     )
 
     add_includedirs(
-        "src/include"
+        "include"
     )
 
 --

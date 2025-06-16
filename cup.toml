@@ -1,0 +1,17 @@
+name = "algo"
+
+version = "0.1.0"
+
+description = "my test project for cup build tool"
+
+author = ["lymo"]
+
+license = "MIT"
+
+
+[build]
+target = "binary"
+
+stdcxx = 23
+
+jobs = 0
