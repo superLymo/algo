@@ -17,6 +17,7 @@ auto main() -> int {
     int constexpr num {10};
 
     std::println("{0:s^+#20o}", 123, 12);
+    std::println("{0:f>+#25.4f}", 3.123231323232323);
 
     return 0;
 }
